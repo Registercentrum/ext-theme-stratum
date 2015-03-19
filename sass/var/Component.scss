@@ -1,0 +1,9 @@
+﻿$base-color: #777 !default; 
+$font-family: 'cartogothic_stdregular',Arial,'Arial Unicode MS',Helvetica,Sans-Serif !default;
+$font-size: 15px !default;
+$line-height: 18px !default;
+$neutral-color: #ccc !default;
+$neutral-light-color: mix(#fff, $neutral-color, 70%) !default;
+$neutral-medium-light-color: mix(#fff, $neutral-color, 40%) !default;
+$neutral-medium-dark-color: mix(#000, $neutral-color, 10%) !default;
+$neutral-dark-color: mix(#000, $neutral-color, 20%) !default;
