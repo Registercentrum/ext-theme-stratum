@@ -1,7 +1,7 @@
 .#{$prefix}grid-header-ct {
 	border-left: $grid-header-border-width $grid-header-border-style $panel-body-border-color;
 	border-right: $grid-header-border-width $grid-header-border-style $panel-body-border-color;
-//    border: none; //RS No borders to avoid doubling. 
+//RS Use inherited borders instead.	border: none;
 
     // Body border provided by headerCt only when in accordion layout.
     border-bottom-color: $grid-header-background-color;

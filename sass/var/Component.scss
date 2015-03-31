@@ -1,8 +1,9 @@
-﻿$base-color: #777 !default; 
-$font-family: open_sans, helvetica, arial, sans-serif !default;
+﻿$font-family: open_sans, helvetica, arial, sans-serif !default;
 $font-size: 14px !default;
 $font-weight: normal !default;
 $font-weight-bold: 500 !default;
+
+$base-color: #666 !default; 
 $neutral-color: #ccc !default;
 $neutral-light-color: mix(#fff, $neutral-color, 70%) !default;
 $neutral-medium-light-color: mix(#fff, $neutral-color, 40%) !default;
