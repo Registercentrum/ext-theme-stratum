@@ -1,5 +1,9 @@
-﻿$grid-row-cell-border-color: $neutral-medium-dark-color !default;
-$grid-row-cell-over-background-color: #fff !default;
+﻿$grid-row-border-color: $neutral-light-color !default;
+$grid-row-cell-border-color: $neutral-light-color !default;
+$grid-row-cell-selected-background-color: $neutral-medium-light-color !default;;
+$grid-row-cell-over-background-color: $neutral-medium-light-color !default;
 $grid-row-cell-over-border-style: dotted !default;
-$grid-row-cell-over-border-color: $grid-row-cell-border-color !default;
+$grid-row-cell-over-border-color: $neutral-color !default;
+$grid-row-cell-focus-border-style: dotted !default;
 $grid-cell-inner-padding: 5px 6px 6px 6px !default;
+

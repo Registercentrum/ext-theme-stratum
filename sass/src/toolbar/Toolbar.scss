@@ -208,9 +208,9 @@
         border-color: $border-color;
         border-width: $border-width;
 
-		//@if $ui == 'footer' { //RS Always use border-top of 1px for footer ui toolbar.
-		//	border-top-width: 1px
-		//}
+		@if $ui == 'footer' { //RS Always use border-top of 1px for footer ui toolbar.
+			border-top-width: 1px
+		}
 
         @include background-gradient($background-color, $background-gradient);
 

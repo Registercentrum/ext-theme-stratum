@@ -1,7 +1,7 @@
 .#{$prefix}grid-header-ct {
-	border-left: $grid-header-border-width $grid-header-border-style $panel-body-border-color;
-	border-right: $grid-header-border-width $grid-header-border-style $panel-body-border-color;
-//RS Use inherited borders instead.	border: none;
+    //RS border: $grid-header-border-width $grid-header-border-style $panel-body-border-color;
+	border-left: $grid-header-border-width $grid-header-border-style $panel-body-border-color; //RS
+	border-right: $grid-header-border-width $grid-header-border-style $panel-body-border-color; //RS
 
     // Body border provided by headerCt only when in accordion layout.
     border-bottom-color: $grid-header-background-color;
@@ -31,7 +31,7 @@
 // items with a !important.
 .#{$prefix}grid-body {
     //RS border-top-color: $grid-header-border-color; //RS Use inherited borders to avoid doubling.
-	border-bottom-width: 0; //RS
+	//RS border-bottom-width: 0; //RS
 }
 
 .#{$prefix}hmenu-sort-asc {
