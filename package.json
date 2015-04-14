@@ -1,9 +1,9 @@
-{
+﻿{
     "name": "ext-theme-stratum",
     "type": "theme",
-    "creator": "Registercentrum Vastra Gotaland",
+    "creator": "Registercentrum Västra Götaland",
     "summary": "Stratum theme",
-    "detailedDescription": "Crisp with CartoGothic and more neutral colors",
+    "detailedDescription": "Crisp with a modern font and neutral colors",
     "version": "1.0.0",
     "compatVersion": "1.0.0",
     "format": "1",
