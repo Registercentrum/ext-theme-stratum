@@ -20,3 +20,4 @@
     "requires": [],
     "extend": "ext-theme-crisp"
 }
+// Används "sencha package build" från mappen "ext-theme-stratum"
